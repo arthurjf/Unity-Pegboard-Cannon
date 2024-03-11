@@ -1,8 +1,9 @@
 {
-    "name": "br.com.arthurjf.Gameplay.Cannon",
-    "rootNamespace": "br.com.arthurjf.Gameplay.Cannon",
+    "name": "br.com.arthurjf.Gameplay.Pocket",
+    "rootNamespace": "br.com.arthurjf.Gameplay.Pocket",
     "references": [
-        "GUID:2bafac87e7f4b9b418d9448d219b01ab"
+        "GUID:55e3ac3bf44804b47858e37b0a856b70",
+        "GUID:2ed6140660db7e64baa90d45b2820a38"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
